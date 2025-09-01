@@ -426,9 +426,9 @@ local customEmotes = {
     {Name = "Paris Hilton - Iconic IT-Grrrl", Id = 15392932768, Price = 0, Index = 75},
     {Name = "Tommy K-Pop Mic Drop", Id = 14024722653, Price = 0, Index = 91},
     {Name = "Floor Rock Freeze - Tommy Hilfiger", Id = 10214411646, Price = 0, Index = 123},
-     {Name = "Doodle Dance", Id = 107091254142209, Price = 0, Index = #totalEmotes+1},
 	{Name = "Beauty Touchdown", Id = 16303091119, Price = 0, Index = 41},
-	-- -{Name = "Tommy - Archer", Id = 13823339506, Price = 0, Index = 41},
+     {Name = "Doodle Dance", Id = 107091254142209, Price = 0, Index = #totalEmotes+1},
+	
 
 
 
